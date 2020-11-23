@@ -24,12 +24,7 @@ Syntax highlighted code block
 
 [Link](https://github.com/kgyanwal/project2_final_level3/tree/master/img/) and
 ```
-![image]
-(https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
-[img/p2.krishana_gyanwali.sudesh.png]
-[[img/p2.krishana_gyanwali.sudesh.png]]
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
-[GitHub](http://github.com)
 
 <div><img src="iimg/p2.krishana_gyanwali.sudesh.png" class="img-responsive" alt=""> </div>
 
