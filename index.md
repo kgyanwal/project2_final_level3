@@ -31,7 +31,7 @@ Syntax highlighted code block
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer_2.png)
 
-## Level 2nd
+## Level 3rd
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/final_layer.png)
 
