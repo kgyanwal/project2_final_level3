@@ -24,6 +24,18 @@ Syntax highlighted code block
 
 [Link](https://github.com/kgyanwal/project2_final_level3/tree/master/img/) and
 ```
+## Level 1st
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer1_image.png)
+
+## Level 2nd
+
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer2.png)
+
+## Level 2nd
+
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/final_layer.png)
+
+## The combined levels
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
 
 <div><img src="iimg/p2.krishana_gyanwali.sudesh.png" class="img-responsive" alt=""> </div>
