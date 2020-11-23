@@ -22,7 +22,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/kgyanwal/project2_final_level3/tree/master/img/) and ![image](final_layer.png)
+[Link](https://github.com/kgyanwal/project2_final_level3/tree/master/img/) and !
+[image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
