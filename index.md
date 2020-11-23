@@ -29,7 +29,7 @@ Syntax highlighted code block
 
 ## Level 2nd
 
-![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer2.png)
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer_2.png)
 
 ## Level 2nd
 
