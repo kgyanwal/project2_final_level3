@@ -1,6 +1,7 @@
-## A journey for saving wild animals
-                                                        By:- Krishana Gyanwali & Sudesh Subedi
+                                        # A journey for saving wild animals
+                                                                                By:- Krishana Gyanwali & Sudesh Subedi
 
+### Intial Idea: Rationale
 *The initial idea was generated after discussing some issues which could help the users to understand the scenario by immersing into environment. We wanted to create a forest management to save wild animals refering to the California wildfire. The year 2020 is not only began with Coronavirus, but also the wild fires which killed millions of animals in Australia and West coast of the United states. We wanted to create a forest which has not tree in between and shallow lakes which animals can easily cross the water to reach the sandy island. The concept of sandy island came into the picture because it would not burn by the fire or its flame. The objects in the island should not be distroyed by the fire. We wanted to give the message to the world through the players that it is the responsibily of the humans to protect the wild animals. Wildfire is not always created by humans necessarily, sometime lightening and some frictions in the atmosphere generates the fire especially in the summer season. We have drafted the blueprint. But, we were not able to portray everything in the short span of time. 
 
 ### Challenges: 
@@ -22,7 +23,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **Bold** and _Italic_ and `Code` text
 
 [Link](https://github.com/kgyanwal/project2_final_level3/tree/master/img/) and
-```
+
 ## Level 1st
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer1_image.png)
 
