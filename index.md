@@ -46,13 +46,17 @@ Techically, this level is more challenging to create. As level 1, this level is 
 
 ## Level 3rd
 
-Actually, this level is the first level we developed first, beleiving that we would move towards the next level by making sci-fi movie like game. We became over ambitious as if we have whole time to this project. Later, we realized that it is not doable with this limited amount of time. We were developing plan B side by side. Then, eventually, we moved to plan B. Here, we delivered successfully. As level 1 and 2, this level is also created manually. 
+Actually, this level is the first level we developed first, beleiving that we would move towards the next level by making sci-fi movie like game. We became over ambitious as if we have whole time to this project. Later, we realized that it is not doable with this limited amount of time. We were developing plan B side by side. Then, eventually, we moved to plan B. Here, we delivered successfully. As level 1 and 2, this level is also created manually. In this layer, the animals thanks Ellen for saving them, they jumps and it feels like they are enjoying and dancing. 
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/final_layer.png)
 
+The Alien like creature is the one which planned to used as a saver and that scares animals and animal will follow the designated route to save themselves. However, the it ended up as the final picture of the project, as it is a happy ending for all animals.
 
 
 ## The combined levels: Level 1, 2 and 3
+
+The image below shows the pictorial description of level 1, 2 and 3. All images above are compiled together to visualize in one place.
+
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
 
 <div><img src="iimg/p2.krishana_gyanwali.sudesh.png" class="img-responsive" alt=""> </div>
@@ -61,13 +65,21 @@ Actually, this level is the first level we developed first, beleiving that we wo
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/the_project_structure.png)
 
+The picture above shows the structure of the project. All layers of the project is addedinto the Gameplay folder of unity 3D game kit. We compiled them here because it became easier for the transition. So, the layer_1 resembles level one of the game, layer_next2 is the second level in the game and the SampleScene is the third layer in the game. We also added two transition function here because it was easier for us to edit and these fuctional components are associated with these layers. 
+
 
 ## An example code snippet:
+
+The follwoing image shows the detail project structure of the level 1, which has all the elements assembled into the game of level 1. In the middle of the screen it shows how OnTrigger fuction works when there is any action occurs. We used collider i.e. a box collider for the transition. And linked that box collider with the transition function. We put that box in the hidden position around the door, as soon as the main character entrers into that area, the next level game will start. 
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/code_snippet.png)
 
 
 ## Advantages
+
+The advantage of this project implementation using 3D gamekit 
+*It because it is easier to use and learn. 
+
 
 ## Shortcomings
 
