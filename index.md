@@ -81,7 +81,7 @@ The advantage of this project implementation using 3D gamekit:
 * It because it is easier to use and learn. 
 * It is an open source library 
 * The developer can build on their own custom environment, player and objects
-* It can be integrated with other library, we brought fantasy land built terrain to this enviroment
+* It can be integrated with other library, we brought fantasy landscape built terrain to this enviroment
 * Many games built using these these tools are already in production platform. 
 
 ## Shortcomings
@@ -92,6 +92,13 @@ The advantage of this project implementation using 3D gamekit:
 
 ## Video Link:
 
-### References
+## References:
+
+* https://learn.unity.com/tutorials
+* https://www.udemy.com/course/gamekit3d/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Unity_v.PROF_la.EN_cc.US_ti.8154&utm_content=deal4584&utm_term=_._ag_83329501114_._ad_436603255162_._kw__._de_c_._dm__._pl__._ti_dsa-774930034729_._li_1026562_._pd__._&matchtype=b&gclid=Cj0KCQiAh4j-BRCsARIsAGeV12BYk9F9He-e2jbzqjV-12-lcaGzdRxAHeTkHVGPgp-5bbz447Lrei0aAj_gEALw_wcB
+* https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747
+* for Audio: https://www.storyblocks.com/audio/search?media-type=sound-effects&categories=nature
+* https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573
+* https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
 
 
