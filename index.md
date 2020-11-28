@@ -77,8 +77,8 @@ The follwoing image shows the detail project structure of the level 1, which has
 
 ## Advantages
 
-The advantage of this project implementation using 3D gamekit 
-*It because it is easier to use and learn. 
+The advantage of this project implementation using 3D gamekit: 
+--It because it is easier to use and learn. 
 
 
 ## Shortcomings
