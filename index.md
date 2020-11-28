@@ -21,7 +21,7 @@ As the picture below shows that we named our team as team 10: the saver, the mai
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer1_image.png)
 
-### Level 1st:
+### Level 1st: Audio
 An audio is added to this layer to give some amusement to the scene and while playing it would add some excitement. A royalty free audio is added to this layer. In the second level, we added audio initially and romoved later on because the game is more instense. 
 
 
@@ -37,23 +37,28 @@ In this level, the character has more complicated structures to cross. When the 
 
 In this picture, the metallic enemies throw the fireball to spread the fire over the terrain. In between, we added acid layer, if the character enters into that area it does, it became so hard to cross that area, at the same time, the enemy is attacking. We played more than 10 times to cross this area to find the key, then once we were succeeded. So, realizing that complexity we removed the acid layer from the death zone. That acid layer's color is changed to represent the lava. 
 
+
+In this level, more enmies are added incluring the fire ball throwing creature, the chracter has to struggle a lot to kill it. We were successful to kill all enemies in once shot for couple of times, while capturing the video below, we had to play twice, we set up time configuration that once the game restarts after death of the player if the palyer moves within 10 seconds, the enemies killed in the prior incarnation are stilled in killed state. 
+
+### Technical description of Level 2: 
+
+Techically, this level is more challenging to create. As level 1, this level is also created manually. The structure of level 1 and level 2 is different. We added some custom functions of C-sharp function where we have for the transition and have given some sensible names.  
+
 ## Level 3rd
 
-Actually, this level is the first level we developed first, beleiving that we would move towards the next level by making sci-fi movie like game. We became over ambitious as if we have whole time to this project. Later, we realized that it is not doable with this limited amount of time. We were developing plan B side by side. Then, eventually, we moved to plan B. Here, we delivered successfully. 
+Actually, this level is the first level we developed first, beleiving that we would move towards the next level by making sci-fi movie like game. We became over ambitious as if we have whole time to this project. Later, we realized that it is not doable with this limited amount of time. We were developing plan B side by side. Then, eventually, we moved to plan B. Here, we delivered successfully. As level 1 and 2, this level is also created manually. 
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/final_layer.png)
 
-### Technical description of Level 1: 
-In this level, more enmies are added incluring the fire ball throwing creature. 
+
 
 ## The combined levels: Level 1, 2 and 3
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
 
 <div><img src="iimg/p2.krishana_gyanwali.sudesh.png" class="img-responsive" alt=""> </div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Merits
+### Advantages
 
 ### Shortcomings
 
