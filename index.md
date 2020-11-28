@@ -57,10 +57,19 @@ Actually, this level is the first level we developed first, beleiving that we wo
 
 <div><img src="iimg/p2.krishana_gyanwali.sudesh.png" class="img-responsive" alt=""> </div>
 
+## Project Structure:
 
-### Advantages
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/the_project_structure.png)
 
-### Shortcomings
+
+## An example code snippet:
+
+![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/code_snippet.png)
+
+
+## Advantages
+
+## Shortcomings
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgyanwal/project2_final_level3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
