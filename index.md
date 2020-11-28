@@ -80,11 +80,15 @@ The follwoing image shows the detail project structure of the level 1, which has
 The advantage of this project implementation using 3D gamekit: 
 * It because it is easier to use and learn. 
 * It is an open source library 
-
+* The developer can build on their own custom environment, player and objects
+* It can be integrated with other library, we brought fantasy land built terrain to this enviroment
+* Many games built using these these tools are already in production platform. 
 
 ## Shortcomings
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgyanwal/project2_final_level3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* It take time to understand the whole concept of this library
+* It has given flexibilty to create or add custom function to build user defined action, which may not be easy for the game developers. 
+* It may not be compatible with some libraries
 
 ## Video Link:
 
