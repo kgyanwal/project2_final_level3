@@ -21,15 +21,30 @@ As the picture below shows that we named our team as team 10: the saver, the mai
 
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer1_image.png)
 
-Technical description: The whole game is created manually using Unity 3D game kit. Initially the terrain is created, then the 3D vegetation is added. We wanted to make island to same animals, so we created water around the surface. When Ellen sees the swich, she moves towards that direction, the enemies attack. We gave higher endurance number to the main character and one time hit to the enemies. So, Ellen has to kill the enemies to go to the next level. The spitter glues the character and run away. Ellen has to follow and kill it to ease the transition to the next level. Once the Ellen jumps over the door, the next level will start. 
+### Level 1st:
+An audio is added to this layer to give some amusement to the scene and while playing it would add some excitement. A royalty free audio is added to this layer. In the second level, we added audio initially and romoved later on because the game is more instense. 
+
+
+### Technical description of Level 1: 
+
+The whole game is created manually using Unity 3D game kit. Initially the terrain is created, then the 3D vegetation is added. We wanted to make island to same animals, so we created water around the surface. When Ellen sees the swich, she moves towards that direction, the enemies attack. We gave higher endurance number to the main character and one time hit to the enemies. So, Ellen has to kill the enemies to go to the next level. The spitter glues the character and run away. Ellen has to follow and kill it to ease the transition to the next level. Once the Ellen jumps over the door, the next level will start. 
 
 ## Level 2nd
 
+In this level, the character has more complicated structures to cross. When the chracter see the blue gate (teleporting), the character has to move towards that direction, there are some hidden puddle created, for which the character has to jump. The instruction to play the game is simple, the keyboard's uparrow to move forward, right to move right and left to left and back to back, and space bar for the jump. We used the default layout for the prompt because it is nicely finished, and the instruction is very straight forward. If we see in the picture below, there is a huge door, the charector is hidden in the other side of the door, and she has to find the switch to go to the next level. Whenever the enemies encounter, the charcter has to kill. 
+
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/layer_2.png)
+
+In this picture, the metallic enemies throw the fireball to spread the fire over the terrain. In between, we added acid layer, if the character enters into that area it does, it became so hard to cross that area, at the same time, the enemy is attacking. We played more than 10 times to cross this area to find the key, then once we were succeeded. So, realizing that complexity we removed the acid layer from the death zone. That acid layer's color is changed to represent the lava. 
 
 ## Level 3rd
 
+Actually, this level is the first level we developed first, beleiving that we would move towards the next level by making sci-fi movie like game. We became over ambitious as if we have whole time to this project. Later, we realized that it is not doable with this limited amount of time. We were developing plan B side by side. Then, eventually, we moved to plan B. Here, we delivered successfully. 
+
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/final_layer.png)
+
+### Technical description of Level 1: 
+In this level, more enmies are added incluring the fire ball throwing creature. 
 
 ## The combined levels: Level 1, 2 and 3
 ![image](https://github.com/kgyanwal/project2_final_level3/blob/master/img/p2.krishana_gyanwali.sudesh.png)
