@@ -79,11 +79,14 @@ The follwoing image shows the detail project structure of the level 1, which has
 
 The advantage of this project implementation using 3D gamekit: 
 * It because it is easier to use and learn. 
+* It is an open source library 
 
 
 ## Shortcomings
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgyanwal/project2_final_level3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+## Video Link:
 
 ### References
 
