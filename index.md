@@ -9,7 +9,7 @@ It is impossible to create all these complex structures, environments and animal
 
 ### Game Development
 
-We have three layers in the game. The first layer is simple layer in which some enmies block the saver (Ellen, the protagonist of Unity 3d Gamekit). Ellen has to find out the switch and jump the door or cross the door to go to the next level. 
+We have three layers in the game. The first layer is a simple layer in which some enmies block the saver (Ellen, the protagonist of Unity 3d Gamekit) to cross to the next level. The instruction is simple enough that Ellen has to find out the switch and jump the door or cross the door to go to the next level. The instruction pops up unannoningly on the scene during the time of the game. The second layer is more complecated and there are lots of enemies added and some of them are very powerful. The saver has to work hard to kill all the invaders. 
 
 
 
